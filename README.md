@@ -1,4 +1,5 @@
 # Reference:
+## [online content(there is a verilog implementation of a RISC-V CPU, study it very carefully)](https://www.elsevier.com/books-and-journals/book-companion/9780128203316)
 ## [Solution Manual for RISC-V Edition](https://www.doc88.com/p-4853978634496.html)
 ## [Solution to Appendix A](https://www.studocu.com/row/document/jamaa%D8%A9-almnsor%D8%A9/computer-organization-and-design/appendix-a-computer-organization-and-design/46431812)
 ## http://chinetti.me/classes/ece485/cd%20content/Advanced-Content-and-Appendixes.html   
