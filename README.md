@@ -1,3 +1,4 @@
+# [2018/10/30: start learning this book](https://github.com/OccupyMars2025/Learning_Assembly_Language_with_MARS_the_mips_simulator)
 # This repo is created at 2023/3/9 17:00  
 
 # Reference:
