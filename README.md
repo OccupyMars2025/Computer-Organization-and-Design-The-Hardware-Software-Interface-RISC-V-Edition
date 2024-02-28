@@ -1,5 +1,5 @@
 ## [(failure: Don't even have the courage to fight !)2018/10/30: Concentrate my firepower and the first battle begins](https://github.com/OccupyMars2025/Learning_Assembly_Language_with_MARS_the_mips_simulator)
-## (failure)2023/10/19 - 11/6: Concentrate my firepower and the second battle begins
+## (failure: I was forced to stop fighting )2023/10/19 - 11/6: Concentrate my firepower and the second battle begins
 ## 2024/2/28: Concentrate my firepower and the third battle begins
 # ==================================
 
