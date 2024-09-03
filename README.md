@@ -1,7 +1,10 @@
 ## 2018/10/30: [round 1](https://github.com/OccupyMars2025/Learning_Assembly_Language_with_MARS_the_mips_simulator)
 ## 2023/10/19 - 11/6: round 2
 ## 2024/2/28: round 3
-# ==================================
+
+---
+
+- [ ] 2024/9/3 16:10- : (page 60-172) Chapter 2: Instructions: language of the computer
 
 
 # Reference:
