@@ -9,6 +9,8 @@
 
 
 # Reference:
+## [2nd Edition Solution Manual](https://www.studocu.com/row/document/tsinghua-university/computer-science/david-a-patterson-john-l-hennessy-computer-organization-and-design-risc-v-edition2nd-solution-manual/77861510)
+
 ## [Solution Manual for RISC-V Edition](https://www.doc88.com/p-4853978634496.html)
 ## [Solution to Appendix A](https://www.studocu.com/row/document/jamaa%D8%A9-almnsor%D8%A9/computer-organization-and-design/appendix-a-computer-organization-and-design/46431812)
 
