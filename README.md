@@ -13,6 +13,7 @@
 ---
 
 # Reference:
+## Wondeful resources: https://github.com/OccupyMars2025/learn-riscv
 ## [2nd Edition Solution Manual](https://www.studocu.com/row/document/tsinghua-university/computer-science/david-a-patterson-john-l-hennessy-computer-organization-and-design-risc-v-edition2nd-solution-manual/77861510)
 
 ## [Solution Manual for RISC-V Edition](https://www.doc88.com/p-4853978634496.html)
