@@ -1,11 +1,12 @@
 # Don't study from a textbook alone. Combine your textbook with your college course, as the course has many supplementary resources to help you learn.
+## People were once taught to use pointers in C to get greater efficiency than that available with arrays: “Use pointers, even if you can’t understand the code.” Modern optimizing compilers can produce code for the array version that is just as good.Most programmers today prefer that the compiler do the heavy lifting. As AI develops, we will only use natural language or brain-computer interfaces to command machines before 2030
 ## 2018/10/30: [round 1](https://github.com/OccupyMars2025/Learning_Assembly_Language_with_MARS_the_mips_simulator)
 ## 2023/10/19 - 11/6: round 2
 ## 2024/2/28: round 3
 
 ---
 # I use the 1st edition as my textbook
-- [ ] 2024/9/3 16:10- : (page 60-172) Chapter 2: Instructions: language of the computer
+- [ ] 2024/9/3 16:10- 10/17 13:40: (page 60-151) Chapter 2: Instructions: language of the computer
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
