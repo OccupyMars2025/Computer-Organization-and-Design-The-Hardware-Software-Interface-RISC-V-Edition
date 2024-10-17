@@ -6,7 +6,7 @@
 
 ---
 # I use the 2nd edition as my textbook
-- [ ] 2024/9/3 16:10- 10/17 13:40: (page 60-151) Chapter 2: Instructions: language of the computer
+- [ ] 2024/9/3 16:10- 10/17 13:40: (page 102-190) Chapter 2: Instructions: language of the computer
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
