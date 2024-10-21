@@ -1,3 +1,5 @@
+## In fact, to compete with current compilers, the assembly language programmer needs to understand the concepts in Chapters 4 and 5 thoroughly (processor pipelining and memory hierarchy).
+# Let's beat the modern compilers !
 # Don't study from a textbook alone. Combine your textbook with your college course, as the course has many supplementary resources to help you learn.
 ## People were once taught to use pointers in C to get greater efficiency than that available with arrays: “Use pointers, even if you can’t understand the code.” Modern optimizing compilers can produce code for the array version that is just as good.Most programmers today prefer that the compiler do the heavy lifting. As AI develops, we will only use natural language or brain-computer interfaces to command machines before 2030
 ## 2018/10/30: [round 1](https://github.com/OccupyMars2025/Learning_Assembly_Language_with_MARS_the_mips_simulator)
