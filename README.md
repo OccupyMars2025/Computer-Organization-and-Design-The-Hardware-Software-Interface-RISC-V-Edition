@@ -8,7 +8,8 @@
 
 ---
 # I use the 2nd edition as my textbook
-- [ ] 2024/9/3 16:10- 10/17 13:40: (page 102-190) Chapter 2: Instructions: language of the computer
+- [x] 2024/9/3 16:10- 10/27 20:27: (page 66-188) Chapter 2: Instructions: language of the computer
+- [ ] 10/27 20:27 - : (page 188-252) Chapter 3: Arithmetic for Computers
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
