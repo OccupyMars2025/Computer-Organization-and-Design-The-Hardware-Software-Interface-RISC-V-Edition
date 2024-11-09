@@ -13,7 +13,9 @@
   - [x] 10/27 20:27 - 10/28 19:28: (page 190-193) Section 3.2: Addition and Subtraction
   - [x] 10/28 19:28 - 10/30 14:10: (page 193-199) Section 3.3: Multiplication
   - [x] 10/30 14:10 - 10/31 10:00: (page 199-207) Section 3.4: Division
-  - [ ] 10/31 10:00 - : (page 208-) Section 3.5: Floating Point
+  - [x] 10/31 10:00 - 11/9  16:20: (page 208-233) Section 3.5: Floating Point
+  - [ ] TODO:  Section 3.6 - 3.8
+  - [ ] 11/9  16:20 - : Section 3.9
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
