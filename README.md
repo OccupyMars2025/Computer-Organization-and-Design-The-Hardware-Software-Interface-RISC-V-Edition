@@ -15,7 +15,8 @@
   - [x] 10/30 14:10 - 10/31 10:00: (page 199-207) Section 3.4: Division
   - [x] 10/31 10:00 - 11/9  16:20: (page 208-233) Section 3.5: Floating Point
   - [ ] TODO:  Section 3.6 - 3.8
-  - [ ] 11/9  16:20 - : Section 3.9
+  - [x] 11/9  16:20 - 11/10 6:37: Section 3.9-3.12. Finished studying the main content of Chapter 3, now starting the exercises
+  - [ ] 11/10 6:37  - : Exercises of Chapter 3
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
