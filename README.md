@@ -8,6 +8,7 @@
 
 ---
 # I use the 2nd edition as my textbook
+# That’s an excellent approach! Breaking down each chapter into designing specific components will give you a deep understanding of the CPU architecture and make the process manageable. By the end, you’ll have a strong foundation and a working RISC-V CPU that can run Linux. If you’d like any guidance on particular chapters or components as you go, feel free to ask!
 - [x] 2024/9/3 16:10- 10/27 20:27: (page 66-188) Chapter 2: Instructions: language of the computer
 - [ ] 10/27 20:27 - : (page 188-252) Chapter 3: Arithmetic for Computers
   - [x] 10/27 20:27 - 10/28 19:28: (page 190-193) Section 3.2: Addition and Subtraction
@@ -16,7 +17,7 @@
   - [x] 10/31 10:00 - 11/9  16:20: (page 208-233) Section 3.5: Floating Point
   - [ ] TODO:  Section 3.6 - 3.8
   - [x] 11/9  16:20 - 11/10 6:37: Section 3.9-3.12. Finished studying the main content of Chapter 3, now starting the exercises
-  - [ ] 11/10 6:37  - : Exercises of Chapter 3
+  - [ ] 11/10 6:37  - : Exercises of Chapter 3, and design the ALU for the future RISC-V CPU
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
