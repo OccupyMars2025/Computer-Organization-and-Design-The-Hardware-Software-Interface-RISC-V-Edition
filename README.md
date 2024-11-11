@@ -17,7 +17,7 @@
   - [x] 10/31 10:00 - 11/9  16:20: (page 208-233) Section 3.5: Floating Point
   - [ ] TODO:  Section 3.6 - 3.8
   - [x] 11/9  16:20 - 11/10 6:37: Section 3.9-3.12. Finished studying the main content of Chapter 3, now starting the exercises
-  - [ ] 11/10 6:37  - : Exercises of Chapter 3, and design the ALU for the future RISC-V CPU, 
+  - [ ] 11/10 6:37  - : Exercises of Chapter 3, and design the ALU for the future RISC-V CPU, once I have implemented a simple RISC-V CPU and want to optimize it, I would return to this chapter
 - [ ] 11/11 17:00 - : (page 252-386) Chapter 4: The Processor
   - [ ] 11/11 17:00 - :  
 
