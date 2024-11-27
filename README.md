@@ -20,8 +20,9 @@
   - [ ] 11/10 6:37  - : Exercises of Chapter 3, and design the ALU for the future RISC-V CPU, once I have implemented a simple RISC-V CPU and want to optimize it, I would return to this chapter
 - [ ] 11/11 17:00 - : (page 252-386) Chapter 4: The Processor
   - [x] 11/11 17:00 - 11/18 19:24: implement a very simple single-cycle RISC-V CPU which can execute 4 instructions
-  - [ ] TODO: page 282: Section 4.5: A Multicycle Implementation
-  - [ ] 11/18 19:24 - :   
+  - [x] 11/18 19:24 - 11/26 23:00:  Section 4.5: A Multicycle Implementation, complete reading the textbook
+  - [x] 11/26 23:00 - 11/27 17:08: study the behavioral implementation (FIGURE e4.14.5) of a multi-cycle RISC-V CPU
+  - [ ] 11/27 17:08 - : 
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
