@@ -1,0 +1,1 @@
+## To add the implementation of the "addi" instruction, I modified the control unit and the datapath.
