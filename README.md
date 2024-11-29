@@ -27,7 +27,8 @@
   - [x] 11/28 16:43 - 11/28 23:04: (page 397-414)Section 4.7: Pipelined Datapath and Control
   - [x] 11/28 23:04 - 11/29 14:40: (page 414-426) Section 4.8: Data Hazards: Forwarding versus Stalling
   - [x] 11/29 14:40 - 11/29 17:02: (page 426-434) Section 4.9: Control Hazards
-  - [ ] 11/29 17:02 - : (page 434-441) Section 4.10: Exceptions
+  - [x] 11/29 17:02 - 11/29 21:14: (page 434-441) Section 4.10: Exceptions
+  - [ ] 11/29 21:14 - : (page 441-455) Section 4.11: Parallelism via Instructions
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
