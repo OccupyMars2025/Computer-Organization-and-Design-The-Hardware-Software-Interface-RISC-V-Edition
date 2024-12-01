@@ -31,7 +31,7 @@
   - [ ] TODO: (page 441-455) Section 4.11: Parallelism via Instructions
   - [ ] TODO: Section 4.12, 4.13
   - [x] 11/29 21:14 - 12/1 9:48: (page 466-497) Section 4.14: Advanced Topic: An Introduction to Digital Design Using a Hardware Design Language to Describe and Model a Pipeline and More Pipelining Illustrations
-  - [ ] 12/1 9:48: 
+  - [ ] 12/1 9:48 - 12/1 16:35: Exercise 4.26-4.33 remain to finish (They may require learning "Section 4.11: Parallelism via Instructions")
 
 ### (page 102)Surprisingly, it took me 1 hour and 30 minutes to manually compile a recursive C program to RISC-V code. Haha, interesting. Great, these questions got me interested in how compilers work!
 
